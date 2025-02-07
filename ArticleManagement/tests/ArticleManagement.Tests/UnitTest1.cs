@@ -1,4 +1,4 @@
-namespace DevZone.IntegrationTests
+namespace ArticleManagement.Tests
 {
     public class UnitTest1
     {

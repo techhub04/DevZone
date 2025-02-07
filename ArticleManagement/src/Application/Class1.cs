@@ -1,4 +1,4 @@
-﻿namespace DevZone.Domain
+﻿namespace Application
 {
     public class Class1
     {

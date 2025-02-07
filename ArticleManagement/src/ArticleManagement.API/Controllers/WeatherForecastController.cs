@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevZone.API.Controllers
+namespace ArticleManagement.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

@@ -1,4 +1,4 @@
-﻿namespace DevZone.Infrastructure
+﻿namespace Persistence
 {
     public class Class1
     {

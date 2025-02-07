@@ -1,4 +1,4 @@
-namespace DevZone.API
+namespace ArticleManagement.API
 {
     public class WeatherForecast
     {

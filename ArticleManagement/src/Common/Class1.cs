@@ -1,4 +1,4 @@
-﻿namespace DevZone.Application
+﻿namespace Common
 {
     public class Class1
     {
