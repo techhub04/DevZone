@@ -1,4 +1,4 @@
-namespace WebApplication1
+namespace DevZone.API
 {
     public class WeatherForecast
     {
